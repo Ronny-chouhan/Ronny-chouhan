@@ -56,3 +56,6 @@
 <p align="center">
   <em>Write code. Ship projects. Repeat.</em>
 </p>
+<p align="center">
+  <img src="https://github.com/Ronny-chouhan/Ronny-chouhan/raw/output/github-contribution-grid-snake-dark.svg" />
+</p>
