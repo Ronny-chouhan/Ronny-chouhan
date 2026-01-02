@@ -1,29 +1,44 @@
-<h2 align="center">
-                      ✨ *Clean code. Modern design. Real projects
-</h2>
-<h1 align="center">💫 About Me  </h1> 
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=38&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Hey%2C+I%E2%80%99m+Ronny+Chouhan"
+    alt="Ronny Chouhan"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&pause=1200&color=9CA3AF&center=true&vCenter=true&width=700&lines=Clean+Code+%7C+Modern+Design+%7C+Real+Projects;MERN+Stack+Learner+%7C+Frontend+Focused"
+    alt="Subtitle"
+  />
+</p>
+
+<hr/>
 <p align="center">
   <img 
     src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif"
-    height="280"
+    height="300"
   />
 </p>
 
 
-  <p>
-  <br><br>- 💻 Computer Science student focused on modern web development  
-    <br>- 🎨 Building clean, responsive interfaces  
-    <br>- ⚛️ Working with **HTML, CSS, JavaScript, React**  
-    <br>- 🧠 Managing code using **Git & GitHub**  
-    <br>- 🚀 Deploying with **Netlify**<br><br>                    
-    <h3 align="center">Consistency over hype. Progress over perfection</h3>
+ 
+
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=22C55E&center=true&vCenter=true&width=520&lines=Building+responsive+UIs;Learning+React+deeply;Writing+clean+JavaScript;Deploying+projects+with+Netlify"
+  />
 </p>
 
+<h3 align="center">👨‍💻 About Me</h3>
 
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=22C55E&width=500&lines=Building+responsive+UIs;Learning+React+deeply;Writing+clean+JavaScript;Deploying+projects+with+Netlify" />
+<p align="center">
+  💻 <b>Computer Science student</b> focused on modern web development<br/>
+  🎨 Building <b>clean, responsive interfaces</b><br/>
+  ⚛️ Working with <b>HTML, CSS, JavaScript, React</b><br/>
+  🧠 Managing code using <b>Git & GitHub</b><br/>
+  🚀 Deploying projects with <b>Netlify</b>
 </p>
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ronny.chauhan.22) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/void.inred) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ronnychouhan.webdev@gmail.com) 
