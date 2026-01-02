@@ -47,4 +47,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Ronny-chouhan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Ronny-chouhan/Ronny-chouhan/blob/output/github-snake-dark.svg)
